@@ -55,6 +55,3 @@ I'm a **Backend Engineer** with 5+ years of hands-on experience, specializing in
 *   [GitHub: www.github.com/heidary100](www.github.com/heidary100)
 
 I am eager to connect with fellow engineers, discuss innovative technologies, and explore exciting opportunities in backend and full-stack development.  Feel free to explore my repositories and reach out!
-
----
-*This `README.md` is generated based on your provided resume and GitHub information. Please personalize it further to best represent your unique professional profile.*
