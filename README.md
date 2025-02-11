@@ -27,7 +27,7 @@ Backend Engineer with 5+ years experience in NodeJS, building scalable applicati
 
 **🗣 Languages:**
 
-*   Persian (Native), English (C2)
+*   Persian (Native), English (C2), German (A1)
 
 **📫 Let's Connect:**
 
