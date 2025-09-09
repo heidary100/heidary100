@@ -1,36 +1,89 @@
-### 👋 Hi, I'm Mohammad Heydari! 👋
 
-Backend Engineer with 5+ years experience in NodeJS, building scalable applications.  Proven skills in backend development, full-stack technologies, and microservices architecture.
+---
 
-**🚀 Core Strengths:**
+👋 Hi, I’m Mohammad Heydari
 
-*   **NodeJS Expertise:**  Backend development, high performance & scalability.
-*   **Full-Stack & Microservices:** React, Next.js, microservice transitions.
-*   **API & Integration:** REST API design and system integration.
-*   **Problem Solving & Teamwork:** Adaptable, collaborative problem solver.
+💻 Senior Software Engineer | JavaScript / TypeScript Specialist | Microservices & Cloud Architect
 
-**💼 Experience Highlights:**
+With 10+ years of experience designing, building, and scaling high‑performance applications, I specialize in JavaScript, TypeScript, and Node.js. I’ve delivered end‑to‑end solutions for international companies, modernized legacy systems, and led teams to ship secure, maintainable, and scalable products. My work spans microservices architecture, cloud‑native deployments, and global remote collaboration.
 
-*   **Officium GmbH (Full Stack Engineer):**  Node.js & React app development, Next.js modernization.
-*   **JSMD-Group (Backend Engineer):** Microservices migration for enhanced performance.
-*   **Zebyl (Full Stack Engineer):** End-to-end software lifecycle & automated testing.
-*   **Goldio (Backend Engineer):** Software modifications & hardware adaptation.
-*   **Cloud Help (Backend Engineer):**  Junior developer mentorship & API development.
+---
 
-**🛠 Technologies:**
+🚀 Core Skills & Technologies
 
-*   **Backend:** NodeJS, ExpressJS, NestJS, TypeScript, PostgreSQL, Microservices, REST API, Docker
-*   **Frontend:** React, NextJS
-*   **Databases:** PostgreSQL, MongoDB, MySQL
-*   **Cloud:** AWS, Azure
-*   **Tools:** Git, JIRA
+Languages: JavaScript (ES6+), TypeScript, Node.js, SQL, Python (tooling)
+Frameworks & Libraries: NestJS, Express.js, Next.js, React, Angular, Redux, RxJS
+Architecture & Patterns: Microservices, Event‑Driven Architecture, Domain‑Driven Design, Serverless
+Databases: PostgreSQL, MongoDB, MySQL, Redis
+Cloud & DevOps: AWS (EC2, S3, ECS, Lambda, CloudFront), Azure, Docker, Kubernetes, Nginx, Cloudflare, CI/CD (GitHub Actions, GitLab CI)
+Testing & Quality: Jest, Mocha, Cypress, Playwright, TDD/BDD
+Other: REST, GraphQL, WebSockets, gRPC, Kafka, ElasticSearch, OAuth2, OpenAPI/Swagger
 
-**🗣 Languages:**
+---
 
-*   Persian (Native), English (C2), German (A1)
+💼 Professional Experience
 
-**📫 Let's Connect:**
+Full Stack Engineer — Stamintech Partners GmbH, Zurich, Switzerland (Remote)
+Feb 2024 – Feb 2025
 
-*   [LinkedIn](www.linkedin.com/in/heidary100) | [Email](heydari.dev@gmail.com) | [GitHub](www.github.com/heidary100)
+• Built and maintained a Node.js + React platform handling millions of records with high performance.
+• Modernized frontend with Next.js, improving UX and reducing load times by 35%.
+• Collaborated with cross‑functional teams across multiple time zones.
 
-Eager to connect and explore opportunities in backend and full-stack development.
+
+Backend Engineer — JSMD GmbH, Munich, Germany (Remote)
+Sep 2022 – Sep 2023
+
+• Led migration from monolith to microservices, boosting reliability and scalability.
+• Coordinated with stakeholders to align technical roadmap with business goals.
+
+
+Full Stack Engineer — Zebyl, Florida, USA
+Mar 2021 – Sep 2022
+
+• Managed full software lifecycle from concept to deployment.
+• Implemented automated testing pipelines, reducing post‑release bugs by 40%.
+
+
+Backend Engineer — Koroo, Tehran, Iran
+Jan 2019 – Jan 2021
+
+• Mentored junior developers and improved team productivity.
+• Built and documented APIs, upgraded interfaces, and optimized performance.
+
+
+Software Engineer / Full Stack Developer — Various Projects & Companies
+2013 – 2018
+
+• Delivered multiple web applications using early JS frameworks, evolving into modern ES6+ and TypeScript practices.
+• Built internal tools and automation scripts, reducing manual workloads by 50%.
+
+
+---
+
+🎓 Education
+
+Diploma (Mathematics & Physics) — Public High School, Sari, Iran (Top 10% of class)
+
+---
+
+🌍 Languages
+
+• Persian: Native
+• English: C2 (Fluent)
+• German: A1 (Basic)
+
+
+---
+
+📫 Let’s Connect
+
+LinkedIn
+GitHub
+📧 heydari.dev@gmail.com
+
+---
+
+💡 Open to senior backend, full‑stack, and cloud‑native opportunities worldwide.
+
+---
